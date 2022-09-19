@@ -1,0 +1,7 @@
+
+
+kotlinc main.kt Account.kt ATM.kt ViewMenu.kt -include-runtime -d main.jar
+
+
+java -jar main.jar
+
